@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gilmar_shuenck@hotmail.com
+	name = Gilmar Shuenck
